@@ -1,0 +1,86 @@
+{
+    "workshop": {
+        "title": "Journey To The Cloud: Oracle Autonomous Integration Cloud (AIC) Hands-on Workshop",
+        "description": "A hands-on event to explore Oracle’s Integration Cloud.",
+        "theme": "ttc",
+        "interactive": "https://launch.oracle.com/?ttcicsdeveloper",
+        "labs": [{
+                "number": "1",
+                "filename": "Home.md",
+                "title": "Home",
+                "description": "Welcome to the OIC Integration workshop"
+            },{
+                "number": "10",
+                "filename": "StudentGuide.md",
+                "title": "Prerequisites",
+                "description": "Workshop guidance and prerequisites"
+            },
+            {
+                "number": "50",
+                "filename": "ics000.md",
+                "title": "Lab Zero: Full Workshop Solution",
+                "description": "This lab will provide a walkthrough of the full solution for the Hands-on Workshop."
+            },
+            {
+                "number": "100",
+                "filename": "ics100.md",
+                "title": "Lab 100: Exploring Oracle Integration Cloud",
+                "description": "This lab will expose you to the functionality in OIC Integration."
+            },
+            {
+                "number": "200",
+                "filename": "ics200.md",
+                "title": "Lab 200: Basic AIC Development (Hello World Integration)",
+                "description": "In this Lab we are going to build a 'hello world' echo service."
+            },
+            {
+                "number": "300",
+                "filename": "ics300.md",
+                "title": "Lab 300: Online Shopping Integration Development",
+                "description": "In this Lab we are going to take a sample integration flow and add additional components to finish the flow."
+            },
+            {
+                "number": "400",
+                "filename": "ics400.md",
+                "title": "Lab 400: Add ABCS Screen to Trigger REST API",
+                "description": "In this Lab we are going to create a User Interface using ABCS, then call the REST API with online shopping request."
+            },
+            {
+                "number": "500",
+                "filename": "ics500.md",
+                "title": "Lab 500: Create Approval Workflow to process orders",
+                "description": "In this Lab we are going to use AIC Process Automation capability to implement a Business Process that will be triggered for suspended orders from online shopping API call."
+            },
+            {
+                "number": "600",
+                "filename": "ics600.md",
+                "title": "Lab 600: Add ABCS logic to Trigger Approval Workflow",
+                "description": "In this Lab we are going to use AIC ABCS to invoke Approval Workflow when a suspended order is returned from from Online Shopping API."
+            },
+            {
+                "number": "700",
+                "filename": "ics700.md",
+                "title": "Lab 700: API Management Lab, Add Online Shopping API to APIPCS",
+                "description": "In this Lab we are going to create a User Interface using ABCS, then call the REST API with online shopping request."
+            },
+            {
+                "number": "800",
+                "filename": "ics800.md",
+                "title": "Lab 800: Use ABCS to create Online Shopping Mobile Application",
+                "description": "In this Lab we are going to use ABCS to build a mobile application, then call the REST API with online shopping request."
+            },
+            {
+                "number": "900",
+                "filename": "ics900.md",
+                "title": "Lab 900: Integration Analytics Implementation",
+                "description": "In this Lab we are going to implement an Integration Analytics Model with Milestones for Online Shopping Integration Flow."
+            },
+            {
+                "number": "901",
+                "filename": "ics901.md",
+                "title": "Lab 901: DevOps Tooling with Oracle Developer Cloud Service (DevCS) and Integration Cloud ",
+                "description": "In this Lab we are going to use DevCS and AIC to implement Continuos Integration/Continuos Deployment DevOps process."
+            }
+        ]
+    }
+}
