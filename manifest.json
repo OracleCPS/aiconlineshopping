@@ -61,7 +61,7 @@
                 "number": "700",
                 "filename": "ics700.md",
                 "title": "Lab 700: API Management Lab, Add Online Shopping API to APIPCS",
-                "description": "In this Lab we are going to create a User Interface using ABCS, then call the REST API with online shopping request."
+                "description": "In this Lab we are going to use APIPCS to add an API for Online Shopping REST API and secure the API using Policies."
             },
             {
                 "number": "800",
