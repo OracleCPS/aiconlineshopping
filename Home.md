@@ -104,7 +104,7 @@ When you are done browsing, select the “Cancel” button to dismiss the “Sel
 
 ## Explore OIC Integrations
 
-Select the **Integrations** from  menu selection
+Select the **Integrations** from  menu selections
 
 ![](images/OIC_INTEGRATIONS_TAB.PNG)
 
@@ -132,7 +132,7 @@ Make note of the integrations that have been created.We will be working with the
 
  ![](images/OIC_TRIGGER_REST_ENDPOINT.PNG)
 
-If you click on the Trigger, a pop-up will appear with a view icon in the shape of an eye. Select the little eye so we can walk through the wizard that was used to setup the REST trigger
+If you click on the **Trigger**, a pop-up will appear with a view icon in the shape of an eye. Select the little eye so we can walk through the wizard that was used to setup the REST trigger
 
 ![](images/OIC_EYE_ORCHESTRATION.PNG)
 
@@ -172,7 +172,6 @@ What you’ll see in the mapper is the possible input variables on the left and 
 
 
 ![](images/OICS_MAPPING.png)
-
 
 
 ## Explore OIC Agents
@@ -245,7 +244,6 @@ In the Activity Stream you can see the steps in the  integration that were execu
  ![](images/Capture_OICS_Log.PNG)
 
  This logfile is helpful for investigation during development or runtime analysis. The capture of the runtime payloads can be turned on or off during activation of the ICS integration where you are prompted whether or not you want to save the payloads.
-
 
  ## Explore ICS Monitoring Console - Integrations
 
