@@ -196,7 +196,7 @@ Select the **Designer** menu selection at the top to go back to the main left-ha
 
 ![](images/100/image112.png)
 
-Next, select the **Monitoring** menu selection to go the OIC monitoring capabilities.
+Next, select the **Monitoring** menu selection to go the OIC **monitoring** capabilities.
 
 ![](images/100/image113.png)
 
@@ -263,7 +263,7 @@ Select the **Tracking** link in the navigation bar on the left
 
 ![](images/OIC_Tracking.png)
 
-The ICS Tracking monitor page shows all integration flows that have been executed.
+The ICS **Tracking** monitor page shows all integration flows that have been executed.
 
 
 Select the chevron just to the right of the Tracking label at the top of the page to change the granularity of the Tracking report to Last 1day 
