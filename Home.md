@@ -78,11 +78,11 @@ Select **Integrations** Tab,then followed by Connections tab from designer page 
 
 ![](images/OIC_INTEGRATION_TAB.PNG)
 
-![](images/OIC_INTEGRATIONS_CONNECTIONS_TAB.PNG)
+
+![](images/100/image115.png)
 
 
-
-Make note of the connections that have been created
+Make note of the Connections that have been created
 
 ![](images/OIC_INTEGRATIONS_PAGE.PNG)
 
