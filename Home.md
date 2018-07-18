@@ -245,7 +245,7 @@ In the Activity Stream you can see the steps in the  integration that were execu
 
  This logfile is helpful for investigation during development or runtime analysis. The capture of the runtime payloads can be turned on or off during activation of the ICS integration where you are prompted whether or not you want to save the payloads.
 
- ## Explore ICS Monitoring Console - Integrations
+ ## Explore OIC Monitoring Console - Integrations
 
  Back in the OIC Monitoring console, select **Integrations** from the left-hand navigation.
 
@@ -255,7 +255,7 @@ In the Activity Stream you can see the steps in the  integration that were execu
 ![](images/OIC_MONITORING_INTEGRATIONS.png)
 
 
-## Explore ICS Monitoring Console - Tracking
+## Explore OIC Monitoring Console - Tracking
 
 
 Select the **Tracking** link in the navigation bar on the left
