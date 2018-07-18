@@ -279,7 +279,6 @@ Next, drill into a completed integration flow by selecting the integration name.
  ![](images/OICS_Flow.PNG)
 
 
-
  Select the **Close button** to go back to the OIC monitoring page.
 
  ![](images/OICS_Close.png)
