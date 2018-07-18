@@ -194,8 +194,7 @@ The Connectivity Agent is available from the Download pull-down on the Agent pag
 Select the **Designer** menu selection at the top to go back to the main left-hand navigation menu level.
 
 
-![](images/100/image112_1.png)
-![](images/100/image112_1.png)
+![](images/100/image110a.png)
 
 Next, select the **Monitoring** menu selection to go the OIC **monitoring** capabilities.
 
