@@ -143,11 +143,11 @@ After the wizard initializes, you’ll be shown the basic information about the 
 
 Select the **Next** trigger button you will able to see request parameters.
 
-![](images/OIC_REST_REQUEST_PARAMETERS.PNG)
+![](images/OIC_REST_REQUEST_PARAMETERS.png)
 
 Select **Next** you will be able to see CORS configuration.
 
-![](images/OIC_REST_CORS.PNG)
+![](images/OIC_REST_CORS.png)
 
 Finally Select Summary tab to see Trigger’s configuration.
 
