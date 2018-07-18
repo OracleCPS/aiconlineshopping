@@ -54,29 +54,27 @@ The hamburger menu has an icon that looks like this: <img src="images/menu.svg">
 
 
 
+## LAB 100 - Explore OIC Integration Cloud Service
 
-## LAB 100 - EXPLORE OICS INTEGRATION CLOUD SERVICE
 
+## OIC Login
 
-## OICS LOGIN
-
-Open  your OICS Enviorment as shared, login page looks like this.  
+Open  your OIC Enviorment as shared,your login page looks like this.Provide your username and password and click 'Sign In'. 
 
 ![](images/OICS_Env.PNG)
 
 
-## OICS CONNECTION
+## OIC Connection
 
-You will now be presented with the OICS Service Console from which you will be performing the rest of this workshop lab.
+You will now be presented with the OIC Service Console from which you will be performing the rest of this workshop lab.
 
 ![](images/OIC_HOME.PNG)
 
 
 
+## Explore OIC Connection
 
-## EXPLORE OICS CONNECTION
-
-Select Integrations Tab,then followed by Connections tab from designer page  as shown below- 
+Select **Integrations** Tab,then followed by Connections tab from designer page  as shown below- 
 
 ![](images/OIC_INTEGRATION_TAB.PNG)
 
@@ -89,24 +87,24 @@ Make note of the connections that have been created
 ![](images/OIC_INTEGRATIONS_PAGE.PNG)
 
 
-Click on the Create button in the upper-right so we can see all the different  Connectors that are available.
+Click on the **Create** button in the upper-right so we can see all the different  Connectors that are available.
 
 ![](images/OIC_CONNECTIONS_CREATE.PNG)
 
 
-Scroll through the list of connection types that are available in OICS:
+Scroll through the list of connection types that are available in OIC:
 
 ![](images/OICS_ADAPTERS_LIST.PNG)
 
-Note that the icons with the plug are those that support the ICS Connectivity Agent for those service types which are not in the cloud, but on-premise, behind the company firewall.
+Note that the icons with the plug are those that support the OIC Connectivity Agent for those service types which are not in the cloud, but on-premise, behind the company firewall.
 
 
 When you are done browsing, select the “Cancel” button to dismiss the “Select an Adapter” dialog.
 
 
-## Explore OICS Integrations
+## Explore OIC Integrations
 
-Select the Integrations menu selection
+Select the **Integrations** from  menu selection
 
 ![](images/OIC_INTEGRATIONS_TAB.PNG)
 
@@ -128,9 +126,9 @@ Make note of the integrations that have been created.We will be working with the
 
  ![](images/OIC_INTEGRATION_MAXIMIZE_TAB.PNG)
 
- The component at the very top of the orchestration is the Trigger. The trigger is representative of the connector that’s sending data into the integration. It is highlighted with a little lightning bolt signifying an incoming event.
+ The component at the very top of the orchestration is the **Trigger**. The trigger is representative of the connector that’s sending data into the integration. It is highlighted with a little lightning bolt signifying an incoming event.
 
- If you hover over the Trigger node, you can see the details. Our trigger is a REST connector type. It is called ProcessPayment. 
+ If you hover over the **Trigger** node, you can see the details. Our trigger is a REST connector type. It is called ProcessPayment. 
 
  ![](images/OIC_TRIGGER_REST_ENDPOINT.PNG)
 
@@ -143,11 +141,11 @@ After the wizard initializes, you’ll be shown the basic information about the 
 ![](images/OIC_REST_ENDPOINT_BASIC_INFO.PNG)
 
 
-Select the Next trigger button you will able to see request parameters.
+Select the **Next** trigger button you will able to see request parameters.
 
 ![](images/OIC_REST_REQUEST_PARAMETERS.PNG)
 
-Select Next you will be able to see CORS configuration.
+Select **Next** you will be able to see CORS configuration.
 
 ![](images/OIC_REST_CORS.PNG)
 
@@ -155,7 +153,7 @@ Finally Select Summary tab to see Trigger’s configuration.
 
 ![](images/Capture_REST_SUMMARY.PNG)
 
-Select the Close button to dismiss the Trigger view wizard.
+Select the **Close** button to dismiss the Trigger view wizard.
 
 Let’s view the next node down in the integration. This is an Assign node. The job of this Assign activity is to initialize variables that will be used in the calls to be made
 
@@ -177,9 +175,9 @@ What you’ll see in the mapper is the possible input variables on the left and 
 
 
 
-## EXPLORE OICS AGENTS
+## Explore OIC Agents
 
-Select the Agents menu selection
+Select the **Agents** menu selection
 
 ![](images/OIC_AGENTS.png)
 
@@ -192,19 +190,19 @@ The Connectivity Agent is available from the Download pull-down on the Agent pag
 ![](images/OIC_CONN_AGENT_DOWN.PNG)
 
 
-##EXPLORE OICS MONITORING CONSOLE
+### Explore OIC Monitoring Console
 
-Select the DESIGNER menu selection at the top to go back to the main left-hand navigation menu level.
+Select the **Designer** menu selection at the top to go back to the main left-hand navigation menu level.
 
 
 ![](images/OICS_MONITORING_BACK_BUTTON.png)
 
-Next, select the Monitoring menu selection to go the OICS monitoring capabilities.
+Next, select the **Monitoring** menu selection to go the OIC monitoring capabilities.
 
 ![](images/OIC_MONITORING1_TAB.png)
 
 
-Next, select the Dashboards selection to go to the main ICS monitoring dashboard page.
+Next, select the **Dashboards** selection to go to the main ICS monitoring dashboard page.
 
 ![](images/OIC_DASHBOARD.png)
 
@@ -212,7 +210,7 @@ You will be presented with the ICS Monitoring Dashboard. Observe the various dat
 
 ![](images/OIC_DASHBOARD_HEALTH.PNG)
 
-On the right side of the Dashboard there are links where you can view the Activity Stream,Download the logs, and Download an Incident if a service request needs to be raised.Click on the Activity Stream link.
+On the right side of the Dashboard there are links where you can view the **Activity Stream**,Download the logs, and Download an Incident if a service request needs to be raised.Click on the Activity Stream link.
 
 
 ![](images/OIC_ACTIVITY_STREAM.png)
@@ -225,13 +223,13 @@ You will be directed to the Integration screen where you can view a summary of a
 
 In the Activity Stream you can see the steps in the  integration that were executed and whether or not they were successful.
 
-## EXPLORE OICS MONITORING CONSOLE - LOGFILES
+## Explore OIC Monitoring Console - Logfiles
 
  In order to see the details of the payload that passed through the ICS integration, you need to download the Log from the Download Logs link on the right of the Activity Stream.
 
  ![](images/ORACLE_DIANOSTIC_LOGS.png)
 
- Select the Download Activity Stream link and then save the zipfile to a location on your workstation such as C:\temp (Windows path)
+ Select the **Download Diagonastic** link and then save the zipfile to a location on your workstation such as C:\temp (Windows path)
 
  ![](images/Capture_download_logs.PNG)
 
@@ -251,7 +249,7 @@ In the Activity Stream you can see the steps in the  integration that were execu
 
  ## Explore ICS Monitoring Console - Integrations
 
- Back in the OICS Monitoring console, select Integrations from the left-hand navigation.
+ Back in the OIC Monitoring console, select **Integrations** from the left-hand navigation.
 
  Note that all the statistics that are shown.
 
@@ -263,7 +261,7 @@ In the Activity Stream you can see the steps in the  integration that were execu
 ## Explore ICS Monitoring Console - Tracking
 
 
-Select the Tracking link in the navigation bar on the left
+Select the **Tracking** link in the navigation bar on the left
 
 
 ![](images/OIC_Tracking.png)
@@ -279,18 +277,18 @@ Next, drill into a completed integration flow by selecting the integration name.
 
 ![](images/OIC_Integration_Name.png)
 
- We can now see that all steps in the this OICS integration flow were successful because the arrow is green highlighting all the orchestration flow steps
+ We can now see that all steps in the this OIC integration flow were successful because the arrow is green highlighting all the orchestration flow steps
 
  ![](images/OICS_Flow.PNG)
 
 
 
- Select the Close button to go back to the OICS monitoring page.
+ Select the **Close button** to go back to the OIC monitoring page.
 
  ![](images/OICS_Close.png)
 
 
- We are now done exploring the ICS monitoring features.
+ We are now done exploring the OIC monitoring features.
 
 
  This OICS Overview Lab is now completed.
