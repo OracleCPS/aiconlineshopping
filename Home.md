@@ -189,21 +189,21 @@ The Connectivity Agent is available from the Download pull-down on the Agent pag
 ![](images/OIC_CONN_AGENT_DOWN.PNG)
 
 
-### Explore OIC Monitoring Console
+## Explore OIC Monitoring Console
 
 Select the **Designer** menu selection at the top to go back to the main left-hand navigation menu level.
 
 
-![](images/OICS_MONITORING_BACK_BUTTON.png)
+![](images/100/image112.png)
 
 Next, select the **Monitoring** menu selection to go the OIC monitoring capabilities.
 
-![](images/OIC_MONITORING1_TAB.png)
+![](images/100/image113.png)
 
 
 Next, select the **Dashboards** selection to go to the main ICS monitoring dashboard page.
 
-![](images/OIC_DASHBOARD.png)
+![](images/100/image114.png)
 
 You will be presented with the ICS Monitoring Dashboard. Observe the various data that is available from this dashboard such as % of successful messages, # of Currently Used Connections, etc.
 
@@ -253,7 +253,6 @@ In the Activity Stream you can see the steps in the  integration that were execu
 
 
 ![](images/OIC_MONITORING_INTEGRATIONS.png)
-
 
 
 ## Explore ICS Monitoring Console - Tracking
