@@ -89,7 +89,7 @@ Make note of the Connections that have been created
 
 Click on the **Create** button in the upper-right so we can see all the different  Connectors that are available.
 
-![](images/OIC_CONNECTIONS_CREATE.PNG)
+![](images/100/image116.png)
 
 
 Scroll through the list of connection types that are available in OIC:
