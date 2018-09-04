@@ -41,9 +41,9 @@
             },
             {
                 "number": "400",
-                "filename": "ics400.md",
-                "title": "Lab 400: Add ABCS Screen to Trigger REST API",
-                "description": "In this Lab we are going to create a User Interface using ABCS, then call the REST API with online shopping request."
+                "filename": "vbcs400.md",
+                "title": "Lab 400: Add VBCS Web Application to Trigger REST API",
+                "description": "In this Lab we are going to create a User Interface using VBCS, then call the REST API with online shopping request."
             },
             {
                 "number": "500",
