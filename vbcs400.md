@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This is the forth of several labs that are part of the **OIC Integration Development** workshop. 
+This is the forth of several labs that are part of the **AIC Integration Development** workshop. 
 
 In this lab, you create a VBCS Web Application which calls the REST end-point created in the previous Lab 300.
 
@@ -33,13 +33,13 @@ A REST service (post/orders) will be called from a form-based web application. T
 
 ## Build a VBCS web application to call a REST service in ICS
 
-### Login to OIC Integration Home Page
+### Login to AIC Integration Home Page
 
->***NOTE :*** The **User Name** and **Password** values will be given to you by your instructor. See _Lab 100 **1.1.1**: Login to your Oracle Cloud Account_ for more information on how to sign into the OIC Integration home page
+>***NOTE :*** The **User Name** and **Password** values will be given to you by your instructor. See _Lab 100 **1.1.1**: Login to your Oracle Cloud Account_ for more information on how to sign into the AIC Integration home page
 
 ------
 
-You will now be presented with the OIC Service Console from which you will be performing the rest of this workshop lab.
+You will now be presented with the AIC Service Console from which you will be performing the rest of this workshop lab.
 
 ### Login to VBCS instance
 
@@ -81,7 +81,7 @@ You will now be presented with the OIC Service Console from which you will be pe
 
   ![](images/vbcs/400/image007.png)
 
-- Enter the **Service Name** as `Online Shopping ICS` in the **Service** tab
+- Enter the **Service Name** as `Online Shopping IC` in the **Service** tab
 
   ![](images/vbcs/400/image008.png)
 
