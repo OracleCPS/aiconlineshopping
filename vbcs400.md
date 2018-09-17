@@ -27,14 +27,15 @@ A REST service (post/orders) will be called from a form-based web application. T
 ## Required Artifacts
 
 - The following lab and an Oracle Integration Cloud account that will be supplied by your instructor
-- A csv file containing the data required to create a business object
 - Completion of the previous *Lab 300*
+
+>***NOTE:*** Use Chrome or IE for the labs preferably, Firefox may cause issues in development
 
 ## Build a VBCS web application to call a REST service in ICS
 
 ### Login to OIC Integration Home Page
 
->**NOTE :** The **User Name** and **Password** values will be given to you by your instructor. See _Lab 100 **1.1.1**: Login to your Oracle Cloud Account_ for more information on how to sign into the OIC Integration home page
+>***NOTE :*** The **User Name** and **Password** values will be given to you by your instructor. See _Lab 100 **1.1.1**: Login to your Oracle Cloud Account_ for more information on how to sign into the OIC Integration home page
 
 ------
 
@@ -56,7 +57,7 @@ You will now be presented with the OIC Service Console from which you will be pe
 
   ![](images/vbcs/400/image002.png)
 
-- Enter `Online Shopping` as the application name and click **Finish**
+- Enter `Online Shopping` followed by your initials to uniquely identify the application name. For example - `Online Shopping VL` where `VL` is the suffix and are the first letters of my first and last name. Click **Finish**
 
   ![](images/vbcs/400/image003.png)
   
@@ -117,11 +118,11 @@ You will now be presented with the OIC Service Console from which you will be pe
 
 ### Create a Web Application
 
-- Back on the **Welcome** page, Click on **Web Application** and then click on **+ Web Application** on the left
+- Back on the **Welcome** page, Click on **Web Apps** and then click on **+ Web Application** on the left
 
   ![](images/vbcs/400/image015.png)
 
-- Enter the application Id as `ShoppingPortal`
+- Enter the application Id as `ShoppingPortal` followed by your initials to uniquely identify the web application. For example - `ShoppingPortalVL` where `VL` is the suffix and are the first letters of my first and last name
 
   ![](images/vbcs/400/image016.png)
 
@@ -229,7 +230,7 @@ You will now be presented with the OIC Service Console from which you will be pe
 
   ![](images/vbcs/400/image031.png)
 
-- Drag and drop a **Single Select** below price, set **Label Hint** to `Ship To` and check the **Required** checkbox
+- Drag and drop a **Select One** below price, set **Label Hint** to `Ship To` and check the **Required** checkbox
 
   ![](images/vbcs/400/image032.png)
  
@@ -326,7 +327,7 @@ Let us now create a business object to hold the Ship To locations and later on b
 
   ![](images/vbcs/400/image050.png)
 
-- Select **state** for both **Value** and **Label**. Click **Next**
+- Check **state** on the left hand side under `response/items/item[i]` and select **state** for both **Value** and **Label** on the right hand side. Click **Next**
 
   ![](images/vbcs/400/image051.png)
 
@@ -420,7 +421,7 @@ Let us now create a business object to hold the Ship To locations and later on b
 
   ![](images/vbcs/400/image071.png)
 
-- Verify that the **Value** is updated to `{{ $page.variables.shipTo }}`
+- Verify that the **Value** is updated to `{{ $page.variables.orderID }}`
 
   ![](images/vbcs/400/image071.png)
 
@@ -538,9 +539,32 @@ We can test the application in **Live** mode or by clicking the **Run** icon on 
 
 - Either select the **Live** mode by clicking ![](images/vbcs/400/image091_001.png) or click the **Run** ![](images/vbcs/400/image091_002.png) icon to open the form in a new browser tab
 
-- Try entering various values, wrong values, empty values and for the various form fields. You can see that the validations we created on the form fields are at play after tabbing out or after the form field loses focus. Click on the **Submit Order**. You can see that on both wrong input on form fields and the right input on form fields, the web-service (REST) call goes through and a status is returned; the only difference being the `responseCode` which is `Failure` that we previously set at the end of the **Action Chain** on the failure link, or a normal `responseCode` such as `ORDER_SUSPENDED` or `ORDER_PROCESSED` when the REST service returns a response.
+- Play around the form and try entering various values, wrong values, empty values and for the various form fields. You can see that the validations we created on the form fields are at play after tabbing out or after the form field loses focus. Click on the **Submit Order** with the following input -
+
+  ```javascript
+    Order ID      : 1
+    Model         : Test
+    Quantity      : 1
+    Price         : 1000
+    Ship To       : CO
+    Return Reason : (Optional - any random text)
+  ```
+
+  You can see the web-service (REST) call goes through and a status is returned such as`ORDER_SUSPENDED` or `ORDER_PROCESSED`
 
   ![](images/vbcs/400/image092_002.png)
+
+- Enter wrong values and see that the validation happens. For example -
+
+  ```javascript
+    Order ID      : (blank)
+    Model         : (blank)
+    Quantity      : -100
+    Price         : 100000
+    Ship To       : (not selected/blank)
+    Return Reason : (Optional - any random text)
+  ```
+  You can see the web-service (REST) call goes through but no status is returned; the form validation is at play and the status of `Failure` that we set in the **Action Chain** is used and printed on the UI this time
 
   ![](images/vbcs/400/image092_001.png)
 
@@ -578,7 +602,7 @@ Now it is time to experiment directly on the source and add some code!
 
   Note the **`,`** (comma) before adding the value above
 
-- Switch to the **JS** view to add Javascript and add the following function -
+- Click on the `shoppingportal` application on the left and switch to the **JS** view to add Javascript. Add the following function -
 
   ```javascript
       AppModule.prototype.isFormValid = function(form) {
@@ -593,7 +617,7 @@ Now it is time to experiment directly on the source and add some code!
       };
   ```
 
-  ![](images/vbcs/400/image097.png)
+  ![](images/vbcs/400/image097_001.png)
 
 - Let us change the **Action Chain** on button click to call this form validation function. Click on **Actions** and click on **ButtonClickAction**
 
