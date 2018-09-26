@@ -41,7 +41,7 @@
             },
             {
                 "number": "400",
-                "filename": "vbcs400.md",
+                "filename": "aic400.md",
                 "title": "Lab 400: Add VBCS Web Application to Trigger REST API",
                 "description": "In this Lab we are going to create a User Interface using VBCS, then call the REST API with online shopping request."
             },
@@ -53,9 +53,9 @@
             },
             {
                 "number": "600",
-                "filename": "ics600.md",
-                "title": "Lab 600: Add ABCS logic to Trigger Approval Workflow",
-                "description": "In this Lab we are going to use AIC ABCS to invoke Approval Workflow when a suspended order is returned from from Online Shopping API."
+                "filename": "aic600.md",
+                "title": "Lab 600: Add VBCS logic to Trigger PCS Approval Workflow",
+                "description": "In this Lab we are going to use AIC VBCS to invoke Approval Workflow when a suspended order is returned from from Online Shopping API."
             },
             {
                 "number": "700",
@@ -65,9 +65,9 @@
             },
             {
                 "number": "800",
-                "filename": "ics800.md",
-                "title": "Lab 800: Use ABCS to create Online Shopping Mobile Application",
-                "description": "In this Lab we are going to use ABCS to build a mobile application, then call the REST API with online shopping request."
+                "filename": "aic800.md",
+                "title": "Lab 800: Use VBCS to create an Online Shopping Mobile Application",
+                "description": "In this Lab we are going to use VBCS to build a mobile application, then call the REST API with online shopping request."
             },
             {
                 "number": "900",
