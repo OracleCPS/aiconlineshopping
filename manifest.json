@@ -16,12 +16,6 @@
                 "description": "Workshop guidance and prerequisites"
             },
             {
-                "number": "50",
-                "filename": "ics000.md",
-                "title": "Lab Zero: Full Workshop Solution",
-                "description": "This lab will provide a walkthrough of the full solution for the Hands-on Workshop."
-            },
-            {
                 "number": "100",
                 "filename": "ics100.md",
                 "title": "Lab 100: Exploring Oracle Integration Cloud",

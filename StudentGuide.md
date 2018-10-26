@@ -1,15 +1,16 @@
-<img class="float-right" src="https://oracle.github.io/learning-library/workshops/common-content/images/touch-the-cloud/ttc-logo.png" width="200">
-# ICS Development Workshop Prerequisites
+<img class="float-right" src="images/j2c-logo.png">
+
+# Oracle  Integration Cloud (OIC) Development Workshop Prerequisites
 
 ## Required 3rd Party Testing Tools
 
 ### Install SoapUI
 
-We will use SoapUI to test an ICS Soap Web Service integration.
+We will use SoapUI to test an OIC Soap Web Service integration.
 
 If you don't already have SoapUI installed on your workstation, you'll need to install it.
 
-To install SoapUI for testing the ICS integration follow these instructions:
+To install SoapUI for testing the OIC integration follow these instructions:
 
 - Download the SoapUI OpenSource application for your desktop/laptop from the URL: <https://www.soapui.org/downloads/soapui.html>
 
@@ -24,6 +25,32 @@ To install SoapUI for testing the ICS integration follow these instructions:
 ![](images/studentguide/image003.png)
 
 - Install SoapUI on your workstation following the directions provided by SmartBear here: <https://www.soapui.org/getting-started/installing-soapui.html> 
+
+### Install Postman
+
+We will use Postman to test 
+
+If you don't already have Postman install on your workstation, you'll need to install.
+
+To install Postman for testing the API Developement follow these instructions:
+
+- Download the Postman application for your desktop/laptop from the URL:
+<https://www.getpostman.com/>
+
+![](images/studentguide/postmanImage01.png)
+
+- Select "Download the App" from the home page
+
+![](images/studentguide/postmanImage02.png)
+
+-  Select the platform that correlates to your machine
+
+- Save the download file to a temporary directory on your workstation
+
+- Run the installer and save Postman to your applications directory
+
+
+---
 
 ---
 
