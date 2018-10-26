@@ -23,7 +23,7 @@ Oracle Integration Cloud (OIC) brings together all the critical capabilities of 
 
 ![](images/oic.png)
 
-### Oracle Autonomous Integration Cloud Features
+### Oracle Integration Cloud Features
 
 - Integrate Applications - Deliver integrations up to 6X faster with pre-built adapters for your SaaS and on-premises systems.
 
@@ -51,7 +51,7 @@ The OIC integration that we'll be working with is shown in the following picture
 
 Here is a description of what is happening with this integration:
 
-A sample (half completed) integration flow will be provided for workshop participants to clone and add their initials as prefix or suffix to the Cloned integration flow. Participants will complete the integration flow and test the REST API with Postman. 
+A sample (half completed) integration flow will be provided for workshop participants to clone. Participants will make their cloned integration flow unique by adding their initials as prefix or suffix to the Cloned integration flow name. Participants will complete the integration flow and test the REST API with Postman. 
 
 The integration flow uses other integration flows simulating *credit card validation*, *order payment* and *order shipment*. These other integration flows are exposed as REST API calls and provide examples of leveraging common integration flow components within OIC.
 
