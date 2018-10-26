@@ -1,6 +1,6 @@
 {
     "workshop": {
-        "title": "Journey To The Cloud: Oracle Autonomous Integration Cloud (AIC) Hands-on Workshop",
+        "title": "Journey To The Cloud: Oracle Integration Cloud (OIC) Hands-on Workshop",
         "description": "A hands-on event to explore Oracle’s Integration Cloud.",
         "theme": "ttc",
         "interactive": "https://launch.oracle.com/?ttcicsdeveloper",
@@ -8,7 +8,7 @@
                 "number": "1",
                 "filename": "Home.md",
                 "title": "Home",
-                "description": "Welcome to the OIC Integration workshop"
+                "description": "Welcome to the Oracle Integration Cloud (OIC) Integration workshop"
             },{
                 "number": "10",
                 "filename": "StudentGuide.md",
@@ -24,7 +24,7 @@
             {
                 "number": "200",
                 "filename": "ics200.md",
-                "title": "Lab 200: Basic AIC Development (Hello World Integration)",
+                "title": "Lab 200: Basic OIC Development (Hello World Integration)",
                 "description": "In this Lab we are going to build a 'hello world' echo service."
             },
             {
@@ -73,7 +73,7 @@
                 "number": "901",
                 "filename": "ics901.md",
                 "title": "Lab 901: DevOps Tooling with Oracle Developer Cloud Service (DevCS) and Integration Cloud ",
-                "description": "In this Lab we are going to use DevCS and AIC to implement Continuos Integration/Continuos Deployment DevOps process."
+                "description": "In this Lab we are going to use DevCS and OIC to implement Continuos Integration/Continuos Deployment DevOps process."
             }
         ]
     }
