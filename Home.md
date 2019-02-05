@@ -13,7 +13,7 @@ Enterprises can innovate faster, improve customer engagement, drive business-pro
 At Oracle, we have invested in delivering a plethora of new Cloud Services and we want to show you how simple – yet powerful they are. We specifically wanted to focus on low code, high productivity services that can be used in building enterprise-grade solutions. We believe the best way to do this is to showcase a real-world business solution comprised of these services. You will build the entire solution during the course of this workshop all in a stress-free, fun environment. 
 
 This workshop will focus on the following solution capabilities within Oracle Integration Cloud (OIC).  
-> - **Application Integration**: delivering best in class “Hybrid”Integration. OIC is a simple and powerful integration platform in the cloud to maximize the value of your investments in SaaS and on-premises applications
+> - **Application Integration**: delivering best in class “Hybrid” Integration. OIC is a simple and powerful integration platform in the cloud to maximize the value of your investments in SaaS and on-premises applications
 > - **Process Automation**: an easy, visual, low-code process automation platform that simplifies day to day tasks by getting employees, customers, and partners the services they need to work anywhere, anytime, and on any device
 > - **Visual Builder Cloud Service**: allowing you to rapidly create and host engaging business applications with a visual development environment 
 
