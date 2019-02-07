@@ -11,11 +11,13 @@ The AIC integration flow that we'll be building is shown in the following pictur
 ![](images/300b/onlineshoppingimage.png)
 ---
 ## **Objectives**
-Take sample integration flow and add 2 conditional branches and test.
+- Take sample integration flow and add 2 conditional branches and test.
 
 ## **Required Artifacts**
 
 - The following lab and an Oracle Public Cloud account that will be supplied by your instructor.
+
+---
 
 ## Login to your Oracle Cloud account
 

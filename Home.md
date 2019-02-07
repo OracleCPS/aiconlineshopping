@@ -37,17 +37,17 @@ Oracle Integration Cloud (OIC) brings together all the critical capabilities of 
 
 > This worskshop will allow participants to get hands on in using the following labs:
 > - Lab 000 – Workshop Software Pre-Requisites
-> - Lab 100 – Workshop Pre-Requisites and Exploring OIC 
-> - Lab 200 – Basic OIC Integration Development (Hello World Integration)
-> - Lab 201 – Getting Started - Environment Set-Up
-> - Lab 300 – Add Two Conditional Branches & Test
+> - Lab 100 – Explore OIC 
+> - Lab 200 – Basic Integration Development (Hello World Integration)
+> - Lab 300a – Pre-Requisites, Recommendations, and Resources
+> - Lab 300b – Add Two Conditional Branches & Test
 > - Lab 400 – Add VBCS Screen to Trigger REST API
 > - Lab 500 – Create Approval Workflow to Process Orders
 > - Lab 600 – Trigger Approval Workflow from VBCS
 > - Lab 700 – API Management – Add API & Enforce Policies
 > - Lab 800 – Create a Mobile App Using VBCS to Call Integration Using REST API
 
-The image below depicts the end state of the integration that we'll be working to complete:
+The image below depicts the end state of the integration that we'll be working to complete starting from LAB 300a:
 
 ![](images/oic-flow-image.png)
 

@@ -2,97 +2,110 @@
 <img src="https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png" />
 </center> 
 
-#Step-by-step Instructions
-
-# Workshop Overview
+# **Workshop Overview**
 
 **To View in Interactive Labguide Format:**  
 
 [GitHub IO Pages](https://rebrand.ly/ttcicslab)
 
-# Deep Dive OIC
+# Deep Dive Oralce Integration Cloud (OIC)
 
-**Reference the following Lab Guides by opening their Documentation Files:**
-## Required Pre-Requisites
+**Reference the Following Lab Guides by Opening Their Linked Documentation Files:**
 
-**Documentation**: ics000.md
+## **Home: About OIC, Overview and Introduction**
 
-## Lab 100: Getting Started
+> **Documentation**: [Home](/Home.md)
+> ### **Objectives**
+> - To provide the participant with a broad overview of what is OIC, its features, and 
 
-**Documenation**: ics100.md
+## **Lab 000: Required Pre-Requisites**
 
-### Objectives
-The objective of this lab is to expose you to:
+> **Documentation**: [Lab 000](/ics000.md)
+> 
+> ### **Objectives**
+> - Provide you with the resources and set-up needed to complete subsequent labs
 
-- **Getting familiar with ICS concepts**
+## **Lab 100: Getting Started**
 
-## Lab 200: Mappings
+> **Documenation**: [Lab 100](/ics100.md)
+> 
+> ### **Objectives**
+> - Explore Integration Cloud Service (OIC) to become familiar with it's service console and functionality.
 
-**Documenation**: ics200.md
+## **Lab 200: Basic OIC Development**
 
-### Objectives
-The objective of this lab is to expose you to:
+> **Documenation**: [Lab 200](/ics200.md)
+>
+> ### **Objectives**
+> - Create your first integration to echo an input to the output by building a 'Hello World' integration
 
-- **Build your first 'hello world' integration**
+## **Lab 300a: Online Shopping Integration Pre-Development**
+
+> **Documenation**: [Lab 300 Part A](/ics300a.md)
+> 
+> ### **Objectives**
+> 
+> - To configure the environment with the starter files that were given to you by your instructor
+> 
+> - To understand the full flow of the integration prior to building the conditional branches in Lab 300B
+
+## **Lab 300b: Online Shopping Integration Development**
+
+> **Documenation**: [Lab 300 Part B](/ics300b.md)
+> 
+> ### **Objectives**
+> 
+> - To take the online shopping integration flow and add two conditional branches to complete the flow
+
+## **Lab 400: Add VBCS Screen to Trigger REST API**
+
+> **Documenation**: [Lab 400](/ics400.md)
+> 
+> ### **Objectives**
+> 
+> - Objective Needed
 
 
-## Lab 300a: Online Shopping Integration Pre-Development
+## **Lab 500 – Create Approval Workflow to Process Orders**
 
-**Documenation**: [Lab 300 Part A](/ics300a.md)
+> **Documenation**: [Lab 500](/ics500.md)
+> 
+> ### **Objectives**
+> 
+> - To create an approval workflow that will allow the processing of orders
 
-### Objectives
+---
+---
+---
 
-- To configure the environment with the starter files that were given to you by your instructor
+## **Lab 600 – Trigger Approval Workflow from VBCS**
 
-- To understand the full flow of the integration prior to building the conditional branches in Lab 300B
+> **Documenation**: [Lab 600](/ics600.md)
+> 
+> ### **Objectives**
+> 
+> - Objective Needed
 
-# Lab 300b: Online Shopping Integration Development
+## **Lab 700 – API Management – Add API & Enforce Policies**
 
-**Documenation**: [Lab 300 PArt B](/ics300b.md)
+> **Documenation**: [Lab 700](/ics700.md)
+> 
+> ### **Objectives**
+> 
+> - Objective Needed
 
-### Objectives
-The objective of this lab is to expose you to the:
+## **Lab 800 – Create a Mobile App Using VBCS to Call Integration Using REST API**
 
-- **Integration into backend systems**
+> **Documenation**: [Lab 800](/ics800.md)
+> 
+> ### **Objectives**
+> 
+> - Objective Needed
 
-- **Database adapter**
+## **Lab 900 – Coming Soon**
 
-## Lab 400: Orchestration
-
-**Documentation**: ics400.md
-
-### Objectives
-
-- **Use the previous labs experiences to build a integration into Oracle's eBusiness Suite**
-
-## Lab 500 – Create Approval Workflow to Process Orders
-
-**Documentation**: 
-
-### Objectives
-
-- **Use the previous labs experiences to build a integration into Oracle's eBusiness Suite**
-
-## Lab 600 – Trigger Approval Workflow from VBCS
-
-**Documentation**: 
-
-### Objectives
-
-- **Use the previous labs experiences to build a integration into Oracle's eBusiness Suite**
-
-## Lab 700 – API Management – Add API & Enforce Policies
-
-**Documentation**: 
-
-### Objectives
-
-- **Use the previous labs experiences to build a integration into Oracle's eBusiness Suite**
-
-## Lab 800 – Create a Mobile App Using VBCS to Call Integration Using REST API
-
-**Documentation**: 
-
-### Objectives
-
-- **Use the previous labs experiences to build a integration into Oracle's eBusiness Suite**
+> **Documenation**: [Lab 900](/ics900.md)
+> 
+> ### **Objectives**
+> 
+> - Objective Needed
