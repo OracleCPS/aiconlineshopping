@@ -10,10 +10,10 @@
 
 [GitHub IO Pages](https://rebrand.ly/ttcicslab)
 
-# Deep Dive ICS
+# Deep Dive OIC
 
 **Reference the following Lab Guides by opening their Documentation Files:**
-## Required pre-work
+## Required Pre-Requisites
 
 **Documentation**: ics000.md
 
@@ -36,9 +36,19 @@ The objective of this lab is to expose you to:
 - **Build your first 'hello world' integration**
 
 
-## Lab 300: Adapters
+## Lab 300a: Online Shopping Integration Pre-Development
 
-**Documenation**: ics300.md
+**Documenation**: [Lab 300 Part A](/ics300a.md)
+
+### Objectives
+
+- To configure the environment with the starter files that were given to you by your instructor
+
+- To understand the full flow of the integration prior to building the conditional branches in Lab 300B
+
+# Lab 300b: Online Shopping Integration Development
+
+**Documenation**: [Lab 300 PArt B](/ics300b.md)
 
 ### Objectives
 The objective of this lab is to expose you to the:
@@ -55,3 +65,34 @@ The objective of this lab is to expose you to the:
 
 - **Use the previous labs experiences to build a integration into Oracle's eBusiness Suite**
 
+## Lab 500 – Create Approval Workflow to Process Orders
+
+**Documentation**: 
+
+### Objectives
+
+- **Use the previous labs experiences to build a integration into Oracle's eBusiness Suite**
+
+## Lab 600 – Trigger Approval Workflow from VBCS
+
+**Documentation**: 
+
+### Objectives
+
+- **Use the previous labs experiences to build a integration into Oracle's eBusiness Suite**
+
+## Lab 700 – API Management – Add API & Enforce Policies
+
+**Documentation**: 
+
+### Objectives
+
+- **Use the previous labs experiences to build a integration into Oracle's eBusiness Suite**
+
+## Lab 800 – Create a Mobile App Using VBCS to Call Integration Using REST API
+
+**Documentation**: 
+
+### Objectives
+
+- **Use the previous labs experiences to build a integration into Oracle's eBusiness Suite**
