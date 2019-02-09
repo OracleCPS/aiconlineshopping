@@ -2,7 +2,7 @@
 
 ![](images/j2c-logo.png)
 
-> Updated: February, 2019
+> ***Last Updated: February 2019***
 
 ## **Upgrade To The Cloud: Oracle Integration Cloud (OIC) Hands-on Workshop**
 A hands-on workshop to dive into development on Oracle's Integration Cloud Platform

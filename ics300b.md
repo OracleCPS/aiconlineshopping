@@ -1,55 +1,47 @@
 <img class="float-right" src="images/j2c-logo.png">
 
-# **Lab 300 - Part B: Online Shopping Integration Development**
+# **Lab 300 - Part B: Oracle Integration Cloud (OIC) Development Workshop**
+## Online Shopping Integration Development
 
 ## **Introduction**
 
-In this Lab we are going to take a sample integration flow and add additional components to finish the flow.
+In this Lab, we will be using Oracle Integration Cloud (OIC) to add additional components to finish the flow of a sample integration.
 
-The AIC integration flow that we'll be building is shown in the following picture:
+The integration flow that we will be working to build is depicted below:
 
 ![](images/300b/onlineshoppingimage.png)
 ---
 ## **Objectives**
-- Take sample integration flow and add 2 conditional branches and test.
+- Complete the sample integration by adding two conditional branches to the flow
+
+### **Pre-Requisites**
+- This lab assumes that you have already completed [Lab300A](/ics300a.md)
 
 ## **Required Artifacts**
 
-- The following lab and an Oracle Public Cloud account that will be supplied by your instructor.
+- The following lab 
+- An Oracle Cloud account (supplied by your instructor)
 
 ---
 
-## Login to your Oracle Cloud account
-
-### Login to OIC Integration Home Page
+## **300b.1: Login to your Oracle Cloud account**
 
 >***NOTE:*** the **User Name** and **Password** values will be given to you by your instructor. See _Lab 100 **1.1.1**: Login to your Oracle Cloud Account_ for more information on how to sign into the OIC home page
 
-![](images/200/image086.png)
+**300b.1.1**: Navigate to the Home Page by using the OIC URL provided to you by your instructor. The URL should have the following pattern: 
+https://{**InstanceName**}-{**CloudAccountName**}.integration.ocp.oraclecloud.com/ic/home/
 
-### REST Connection
+**300b.1.2**: Log in using the IDCS re-route page
 
-In this first part of the lab, we will reuse an existing connection :
+![](images/300b/image002.png)  
 
-Let’s start by logging into the Oracle Cloud account using your allocated user   
+**300b.1.3**: From the home page, select *Integrations* and you should be auto redirected to the Integration Designer Page where you will see a list of the all the integrations available on the environment.
 
-**2.1** Click on **Itegrations** tab followed by  the **Connection** section from designer page as shown below 
+![](images/oic-1.png)
 
-![](images/200/img112.png)
+## **300b.2: Clone and Develop your Integration**
 
-![](images/200/img113.png) 
-
-**2.2** We are already having a connection named "OnlineShoppingPaymentInvoke".Will use the same  during our developement.
-
-![](images/300b/image101.png)
-
-**2.3** Click on the **Integrations** link in the upper left to get back to the Integration page
-
-![](images/200/img088.PNG) 
-
-### Clone and Develop your Integration
-
-**1.1** You are already having an existing integration named **Online shopping Sample**.We will create a clone of the same one.
+**1.1** Using the existing integration named **Online Shopping Sample**, create a clone integration 
 
 **1.2** Search with above integration name as shown below 
 
@@ -99,7 +91,7 @@ _Now we will add two conditional branches in the same flow and test it out_
 
 ![](images/300b/img112.png)
 
-**1.13** Click **Close** button to come out of this wizard. Next we need to map the output parameters. Select **Map ** Data from Actions tab as shown 
+**1.13** Click **Close** button to come out of this wizard. Next we need to map the output parameters. Select **Map** Data from Actions tab as shown 
 
 ![](images/300b/img113.png)
 
@@ -111,7 +103,7 @@ _Now we will add two conditional branches in the same flow and test it out_
 
 ![](images/300b/img115.png)
 
-**1.16** Mapper page will appear. Exapand the response mapper as shown below.
+**1.16** Mapper page will appear. Expand the response mapper as shown below.
 
 ![](images/300b/img116_1.png)
 
@@ -125,7 +117,7 @@ _Now we will add two conditional branches in the same flow and test it out_
 
 ![](images/300b/img118.PNG)
 
-**1.19** Next drag and drop selected Item on the same swimlane. Since we are alredy set up map previously (1.14), delet the newly appered one.
+**1.19** Next drag and drop selected item on the same swimlane. Since we are already set up map previously (1.14), delete the newly appered one.
 
 ![](images/300b/img119_1.PNG)
 
@@ -133,7 +125,7 @@ Your overall setup should look like this.This completes our one - **if else** lo
 
 ![](images/300b/img119.PNG)
 
-**1.20** Next go to the **Invoke** tab and select **Rest** connector - `OnlineShoppingPaymentInvoke` as shown below 
+**1.20** Next go to the **Invoke** tab and select **REST** connector - `OnlineShoppingPaymentInvoke` as shown below 
 
 ![](images/300b/img120.png)
 
@@ -284,8 +276,7 @@ Make sure you select JSAN(applicatiom/json) format (5)
 
 ![](images/300b/img154_1.png)
 
+--- 
 
-```
-You have now completed Lab 300b of the OIC Developer Workshop. In the next lab, we are going to create a User Interface using Visual Builder Cloud Service (VBCS), then call the REST API with online shopping request.
-
-- This Lab is now completed.
+# **THIS LAB IS NOW COMPLETED**
+> In the next lab, we are going to create a User Interface using Visual Builder Cloud Service (VBCS), then call the REST API with online shopping request.

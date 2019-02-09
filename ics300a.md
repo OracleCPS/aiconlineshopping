@@ -3,31 +3,29 @@
 # **Lab 300 - Part A: Oracle Integration Cloud (OIC) Development Workshop**
 ## Online Shopping Integration Pre-Development
 
+## **Introduction**
+
+Before we dive in and create the integration, we want you to get an understanding of the flow and the end result you are working to obtain from the integration flow. This lab will walk you through uploading the integration artifacts and testing the flow in Postman, and API testing tool.
+
 ## **Objectives**
 
 - To configure the environment with the starter files that were given to you by your instructor
 
 - To understand the full flow of the integration prior to building the conditional branches in Lab 300B
 
-## **Introduction**
-
-- Before we dive in and create the integration, we want you to get an understanding of the flow and the end result you are working to obtain from the integration flow. This lab will walk you through uploading the integration artifacts and testing the flow in Postman, and API testing tool.
-
----
-
-## **Getting Started**
-
-This lab will walk you through the necessary set-up needed to complete the subsequent labs.
+# **Getting Started**
 
 ### **Pre-Requisites**
-> - Lab 000 Should be complete prior to starting this lab
->  
-> **For this lab you will need access to the following:**
-> 1. Access to a provisioned OIC instance
-> 2. ONLINE_SHOPPING_APP_01.00.0000.iar
-> 3. ONLINE_SHOPPING_APP_FULFILLM_01.00.0000.iar
-> 4. ONLINESHOPPINGAPPPAYMENTVALIDATI_01.00.0000.iar
-> 5. Note taking app or text editor (Notepad or Word Document)
+- This lab assumes that you have already completed [Lab000](/ics000.md)
+
+    > **For this lab you will need access to the following:**
+    > 1. Access to a provisioned OIC instance
+    > 2. ONLINE_SHOPPING_APP_01.00.0000.iar
+    > 3. ONLINE_SHOPPING_APP_FULFILLM_01.00.0000.iar
+    > 4. ONLINESHOPPINGAPPPAYMENTVALIDATI_01.00.0000.iar
+    > 5. Note taking app or text editor (Notepad or Word Document)
+
+---
 
 ## **300a.1: Gain Access to the Oracle Integration Cloud Home Page and Nagivate to the Integration Designer Page**
 
@@ -36,7 +34,7 @@ https://{**InstanceName**}-{**CloudAccountName**}.integration.ocp.oraclecloud.co
 
 **300a.1.2**: Log in using the IDCS re-route page
 
-![](images/300/image002.png)  
+![](images/300b/image002.png)  
 
 **300a.1.3**: From the home page, select *Integrations* and you should be auto redirected to the Integration Designer Page where you will see a list of the all the integrations available on the environment.
 
@@ -213,4 +211,4 @@ Completed Connection
 
 --- 
 
-# **THIS LAB IS NOW COMPLETED. PLEASE SEE YOUR INSTRUCTOR FOR FURTHER INSTRUCTIONS**
+# **THIS LAB IS NOW COMPLETED**
