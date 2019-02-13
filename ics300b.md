@@ -1,7 +1,6 @@
 <img class="float-right" src="images/j2c-logo.png">
 
 # **Lab 300 - Part B: Oracle Integration Cloud (OIC) Development Workshop**
-## Online Shopping Integration Development
 
 ## **Introduction**
 
@@ -22,7 +21,7 @@ The integration flow that we will be working to build is depicted below:
 - The following lab 
 - An Oracle Cloud account (supplied by your instructor)
 
----
+# **Online Shopping Integration Development**
 
 ## **300b.1: Login to your Oracle Cloud account**
 
@@ -35,7 +34,7 @@ https://{**InstanceName**}-{**CloudAccountName**}.integration.ocp.oraclecloud.co
 
 ![](images/300b/image002.png)  
 
-**300b.1.3**: From the home page, select *Integrations* and you should be auto redirected to the Integration Designer Page where you will see a list of the all the integrations available on the environment.
+**300b.1.3**: From the home page, select *Integrations* and you should be auto redirected to the Integration Designer Page where you will see a list of the all the integrations available on the environment
 
 ![](images/oic-1.png)
 
