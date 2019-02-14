@@ -8,7 +8,7 @@
 
 [GitHub IO Pages](https://rebrand.ly/ttcicslab)
 
-# Deep Dive Oralce Integration Cloud (OIC)
+# **Deep Dive Oralce Integration Cloud (OIC)**
 
 **Reference the Following Lab Guides by Opening Their Linked Documentation Files:**
 
@@ -23,7 +23,7 @@
 > **Documentation**: [Lab 000](/ics000.md)
 > 
 > ### **Objectives**
-> - Provide you with the resources and set-up needed to complete subsequent labs
+> - Provide you with the resources you will need to complete subsequent labs
 
 ## **Lab 100: Getting Started**
 
@@ -63,7 +63,7 @@
 > 
 > ### **Objectives**
 > 
-> - Objective Needed
+> - Objective Pending
 
 
 ## **Lab 500 – Create Approval Workflow to Process Orders**
@@ -84,7 +84,7 @@
 > 
 > ### **Objectives**
 > 
-> - Objective Needed
+> - Objective Pending
 
 ## **Lab 700 – API Management – Add API & Enforce Policies**
 
@@ -92,7 +92,7 @@
 > 
 > ### **Objectives**
 > 
-> - Objective Needed
+> - Objective Pending
 
 ## **Lab 800 – Create a Mobile App Using VBCS to Call Integration Using REST API**
 
@@ -100,7 +100,7 @@
 > 
 > ### **Objectives**
 > 
-> - Objective Needed
+> - Objective Pending
 
 ## **Lab 900 – Coming Soon**
 
