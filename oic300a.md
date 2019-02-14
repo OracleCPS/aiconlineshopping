@@ -15,23 +15,22 @@ Before we dive in and create the integration, we want you to get an understandin
 
 - Set up the Sample Integration that will be cloned for the participants in Lab 300B
 
-# **Getting Started**
-
-### **Pre-Requisites**
+## **Pre-Requisites**
 
 **REQUIRED:** 
-- This lab assumes that you have already completed [Lab 000](/ics000.md)
+- This lab assumes that you have already completed [Lab 000](/oic000.md)
 
 ***AND***
 
   > **For this lab you will need access to the following:**
-    > 1. Access to a provisioned OIC instance
-    > 2. [ONLINE_SHOPPING_APP_01.00.0000.iar](/files/iar_files/ONLINE_SHOPPING_APP_01.00.0000.iar])
-    > 3. [ONLINE_SHOPPING_APP_FULFILLM_01.00.0000.iar](/files/iar_files/ONLINE_SHOPPING_APP_FULFILLM_01.00.0000.iar)
-    > 4. [ONLINESHOPPINGAPPPAYMENTVALIDATI_01.00.0000.iar](/files/iar_files/ONLINESHOPPINGAPPPAYMENTVALIDATI_01.00.0000.iar)
+    > 1. Access to a provisioned OIC instance  
+    > 2. [ONLINE_SHOPPING_APP_01.00.0000.iar](/files/iar_files/ONLINE_SHOPPING_APP_01.00.0000.iar])  
+    > 3. [ONLINE_SHOPPING_APP_FULFILLM_01.00.0000.iar](/files/iar_files/ONLINE_SHOPPING_APP_FULFILLM_01.00.0000.iar)  
+    > 4. [ONLINESHOPPINGAPPPAYMENTVALIDATI_01.00.0000.iar](/files/iar_files/ONLINESHOPPINGAPPPAYMENTVALIDATI_01.00.0000.iar)  
     > 5. Note taking app or text editor  
 
----
+
+# **Getting Started**
 
 ## **300a.1: Gain Access to the Oracle Integration Cloud Home Page and Nagivate to the Integration Designer Page**
 
@@ -292,3 +291,5 @@ https://{**InstanceName**}-{**CloudAccountName**}.integration.ocp.oraclecloud.co
 --- 
 
 # **THIS LAB IS NOW COMPLETED**
+> In the next lab, we are going to complete the sample integration by adding two conditional branches to the flow  
+> [LAB 300B](/oic300b.md)

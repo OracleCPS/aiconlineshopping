@@ -20,28 +20,28 @@
 
 ## **Lab 000: Required Pre-Requisites**
 
-> **Documentation**: [Lab 000](/ics000.md)
+> **Documentation**: [Lab 000](/oic000.md)
 > 
 > ### **Objectives**
 > - Provide you with the resources you will need to complete subsequent labs
 
 ## **Lab 100: Getting Started**
 
-> **Documentation**: [Lab 100](/ics100.md)
+> **Documentation**: [Lab 100](/oic100.md)
 > 
 > ### **Objectives**
 > - Explore OIC to become familiar with its service console and functionalities
 
 ## **Lab 200: Basic OIC Development**
 
-> **Documentation**: [Lab 200](/ics200.md)
+> **Documentation**: [Lab 200](/oic200.md)
 >
 > ### **Objectives**
 > - Create your first integration to echo an input to the output by building a 'Hello World' integration
 
 ## **Lab 300A: Online Shopping Integration Pre-Development**
 
-> **Documentation**: [Lab 300 Part A](/ics300a.md)
+> **Documentation**: [Lab 300 Part A](/oic300a.md)
 > 
 > ### **Objectives**
 > 
@@ -51,44 +51,43 @@
 
 ## **Lab 300B: Online Shopping Integration Development**
 
-> **Documentation**: [Lab 300 Part B](/ics300b.md)
+> **Documentation**: [Lab 300 Part B](/oic300b.md)
 > 
 > ### **Objectives**
 > 
 > - To take the online shopping integration flow and add two conditional branches to complete the flow
 
-## **Lab 400: Add VBCS Screen to Trigger REST API**
+## **Lab 400: Add a Visual Builder Cloud Service (VBCS) Screen to Trigger REST API**
 
-> **Documentation**: [Lab 400](/ics400.md)
+> **Documentation**: [Lab 400](/oic400.md)
 > 
 > ### **Objectives**
 > 
-> - Objective Pending
+> - Learn how to create a VBCS web application
+> - Learn how to create form validations, business objects and modify source code
+> - Learn to change design views and use live mode to create/test data
+> - Learn how to write custom form validations
 
 
 ## **Lab 500 – Create Approval Workflow to Process Orders**
 
-> **Documentation**: [Lab 500](/ics500.md)
+> **Documentation**: [Lab 500](/oic500.md)
 > 
 > ### **Objectives**
 > 
 > - To create an approval workflow that will allow the processing of orders
 
----
----
----
-
 ## **Lab 600 – Trigger Approval Workflow from VBCS**
 
-> **Documentation**: [Lab 600](/ics600.md)
+> **Documentation**: [Lab 600](/oic600.md)
 > 
 > ### **Objectives**
 > 
-> - Objective Pending
+> - To call a Process Automation workflow from a Visual Builder Cloud Service Web Application
 
 ## **Lab 700 – API Management – Add API & Enforce Policies**
 
-> **Documentation**: [Lab 700](/ics700.md)
+> **Documentation**: [Lab 700](/oic700.md)
 > 
 > ### **Objectives**
 > 
@@ -96,7 +95,7 @@
 
 ## **Lab 800 – Create a Mobile App Using VBCS to Call Integration Using REST API**
 
-> **Documentation**: [Lab 800](/ics800.md)
+> **Documentation**: [Lab 800](/oic800.md)
 > 
 > ### **Objectives**
 > 
@@ -104,8 +103,8 @@
 
 ## **Lab 900 – Coming Soon**
 
-> **Documentation**: [Lab 900](/ics900.md)
+> **Documentation**: [Lab 900](/oic900.md)
 > 
 > ### **Objectives**
 > 
-> - Objective Needed
+> - Objective Pending

@@ -10,70 +10,76 @@
                 "title": "Home",
                 "description": "Welcome to the Oracle Integration Cloud (OIC) Integration workshop"
             },{
-                "number": "10",
-                "filename": "StudentGuide.md",
+                "number": "2",
+                "filename": "oic000.md",
                 "title": "Prerequisites",
                 "description": "Workshop guidance and prerequisites"
             },
             {
                 "number": "100",
-                "filename": "ics100.md",
+                "filename": "oic100.md",
                 "title": "Lab 100: Exploring Oracle Integration Cloud",
                 "description": "This lab will expose you to the functionality in OIC Integration."
             },
             {
                 "number": "200",
-                "filename": "ics200.md",
+                "filename": "oic200.md",
                 "title": "Lab 200: Basic OIC Development (Hello World Integration)",
-                "description": "In this Lab we are going to build a 'hello world' echo service."
+                "description": "In this lab, we are going to build a 'hello world' echo service."
             },
             {
-                "number": "300",
-                "filename": "ics300.md",
-                "title": "Lab 300: Online Shopping Integration Development",
-                "description": "In this Lab we are going to take a sample integration flow and add additional components to finish the flow."
+                "number": "300-1",
+                "filename": "oic300a.md",
+                "title": "Lab 300A: Online Shopping Integration Pre-Development",
+                "description": "In this lab, we are going to take a sample integration flow and add additional components to finish the flow."
+            },
+            {
+                "number": "300-2",
+                "filename": "oic300b.md",
+                "title": "Lab 300B: Online Shopping Integration Development",
+                "description": "In this lab, we are going to take a sample integration flow and add additional components to finish the flow."
             },
             {
                 "number": "400",
-                "filename": "aic400.md",
+                "filename": "oic400.md",
                 "title": "Lab 400: Add VBCS Web Application to Trigger REST API",
-                "description": "In this Lab we are going to create a User Interface using VBCS, then call the REST API with online shopping request."
+                "description": "In this lab, we are going to create a User Interface using VBCS, then call the REST API with online shopping request."
             },
             {
                 "number": "500",
                 "filename": "ics500.md",
-                "title": "Lab 500: Create Approval Workflow to process orders",
-                "description": "In this Lab we are going to use AIC Process Automation capability to implement a Business Process that will be triggered for suspended orders from online shopping API call."
+                "title": "Lab 500: Create Approval Workflow to Process Orders",
+                "description": "In this lab, we are going to use OIC Process Automation capability to implement a Business Process that will be triggered for suspended orders from online shopping API call."
             },
             {
                 "number": "600",
-                "filename": "aic600.md",
+                "filename": "oic600.md",
                 "title": "Lab 600: Add VBCS logic to Trigger PCS Approval Workflow",
-                "description": "In this Lab we are going to use AIC VBCS to invoke Approval Workflow when a suspended order is returned from from Online Shopping API."
+                "description": "In this lab, we are going to use OIC VBCS to invoke Approval Workflow when a suspended order is returned from from Online Shopping API."
             },
             {
                 "number": "700",
-                "filename": "ics700.md",
+                "filename": "oic700.md",
                 "title": "Lab 700: API Management Lab, Add Online Shopping API to APIPCS",
-                "description": "In this Lab we are going to use APIPCS to add an API for Online Shopping REST API and secure the API using Policies."
+                "description": "In this lab, we are going to use APIPCS to add an API for Online Shopping REST API and secure the API using Policies."
             },
             {
                 "number": "800",
-                "filename": "aic800.md",
+                "filename": "oic800.md",
                 "title": "Lab 800: Use VBCS to create an Online Shopping Mobile Application",
-                "description": "In this Lab we are going to use VBCS to build a mobile application, then call the REST API with online shopping request."
+                "description": "In this lab, we are going to use VBCS to build a mobile application, then call the REST API with online shopping request."
             },
             {
                 "number": "900",
-                "filename": "ics900.md",
+                "filename": "oic900.md",
                 "title": "Lab 900: Integration Analytics Implementation",
-                "description": "In this Lab we are going to implement an Integration Analytics Model with Milestones for Online Shopping Integration Flow."
+                "description": "In this lab, we are going to implement an Integration Analytics Model with Milestones for Online Shopping Integration Flow."
             },
             {
                 "number": "901",
-                "filename": "ics901.md",
+                "filename": "oic901.md",
                 "title": "Lab 901: DevOps Tooling with Oracle Developer Cloud Service (DevCS) and Integration Cloud ",
-                "description": "In this Lab we are going to use DevCS and OIC to implement Continuos Integration/Continuos Deployment DevOps process."
+                "description": "In this lab, we are going to use DevCS and OIC to implement Continuous Integration/Continuous Deployment DevOps process."
             }
         ]
     }
