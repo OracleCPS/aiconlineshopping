@@ -27,21 +27,21 @@
 
 ## **Lab 100: Getting Started**
 
-> **Documenation**: [Lab 100](/ics100.md)
+> **Documentation**: [Lab 100](/ics100.md)
 > 
 > ### **Objectives**
 > - Explore Integration Cloud Service (OIC) to become familiar with it's service console and functionality.
 
 ## **Lab 200: Basic OIC Development**
 
-> **Documenation**: [Lab 200](/ics200.md)
+> **Documentation**: [Lab 200](/ics200.md)
 >
 > ### **Objectives**
 > - Create your first integration to echo an input to the output by building a 'Hello World' integration
 
 ## **Lab 300a: Online Shopping Integration Pre-Development**
 
-> **Documenation**: [Lab 300 Part A](/ics300a.md)
+> **Documentation**: [Lab 300 Part A](/ics300a.md)
 > 
 > ### **Objectives**
 > 
@@ -51,7 +51,7 @@
 
 ## **Lab 300b: Online Shopping Integration Development**
 
-> **Documenation**: [Lab 300 Part B](/ics300b.md)
+> **Documentation**: [Lab 300 Part B](/ics300b.md)
 > 
 > ### **Objectives**
 > 
@@ -59,7 +59,7 @@
 
 ## **Lab 400: Add VBCS Screen to Trigger REST API**
 
-> **Documenation**: [Lab 400](/ics400.md)
+> **Documentation**: [Lab 400](/ics400.md)
 > 
 > ### **Objectives**
 > 
@@ -68,7 +68,7 @@
 
 ## **Lab 500 – Create Approval Workflow to Process Orders**
 
-> **Documenation**: [Lab 500](/ics500.md)
+> **Documentation**: [Lab 500](/ics500.md)
 > 
 > ### **Objectives**
 > 
@@ -80,7 +80,7 @@
 
 ## **Lab 600 – Trigger Approval Workflow from VBCS**
 
-> **Documenation**: [Lab 600](/ics600.md)
+> **Documentation**: [Lab 600](/ics600.md)
 > 
 > ### **Objectives**
 > 
@@ -88,7 +88,7 @@
 
 ## **Lab 700 – API Management – Add API & Enforce Policies**
 
-> **Documenation**: [Lab 700](/ics700.md)
+> **Documentation**: [Lab 700](/ics700.md)
 > 
 > ### **Objectives**
 > 
@@ -96,7 +96,7 @@
 
 ## **Lab 800 – Create a Mobile App Using VBCS to Call Integration Using REST API**
 
-> **Documenation**: [Lab 800](/ics800.md)
+> **Documentation**: [Lab 800](/ics800.md)
 > 
 > ### **Objectives**
 > 
@@ -104,7 +104,7 @@
 
 ## **Lab 900 – Coming Soon**
 
-> **Documenation**: [Lab 900](/ics900.md)
+> **Documentation**: [Lab 900](/ics900.md)
 > 
 > ### **Objectives**
 > 
