@@ -16,7 +16,7 @@ The integration flow that we will be working to build is depicted below:
 
 ## **Pre-Requisites**
 - **REQUIRED:** 
-    - This lab assumes that you have already completed [Lab300A](/ics300a.md)
+    - This lab assumes that you have already completed [Lab300A](/oic300a.md)
 
 ## **Required Artifacts**
 
@@ -318,4 +318,4 @@ AND
 
 # **THIS LAB IS NOW COMPLETED**
 > In the next lab, we are going to create a User Interface using Visual Builder Cloud Service (VBCS), then call the REST API with online shopping request.  
-> [LAB 400](/ics400.md)
+> [LAB 400](/oic400.md)
