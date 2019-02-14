@@ -8,7 +8,7 @@
 
 [GitHub IO Pages](https://rebrand.ly/ttcicslab)
 
-# **Deep Dive Oralce Integration Cloud (OIC)**
+# **Deep Dive Oracle Integration Cloud (OIC)**
 
 **Reference the Following Lab Guides by Opening Their Linked Documentation Files:**
 
@@ -16,7 +16,7 @@
 
 > **Documentation**: [Home](/Home.md)
 > ### **Objectives**
-> - To provide the participant with a broad overview of what is OIC, its features, and 
+> - To provide the participant with a broad overview of what is contained in this *Touch the Cloud* Workshop
 
 ## **Lab 000: Required Pre-Requisites**
 
@@ -30,7 +30,7 @@
 > **Documentation**: [Lab 100](/ics100.md)
 > 
 > ### **Objectives**
-> - Explore Integration Cloud Service (OIC) to become familiar with it's service console and functionality.
+> - Explore OIC to become familiar with its service console and functionalities
 
 ## **Lab 200: Basic OIC Development**
 
@@ -39,17 +39,17 @@
 > ### **Objectives**
 > - Create your first integration to echo an input to the output by building a 'Hello World' integration
 
-## **Lab 300a: Online Shopping Integration Pre-Development**
+## **Lab 300A: Online Shopping Integration Pre-Development**
 
 > **Documentation**: [Lab 300 Part A](/ics300a.md)
 > 
 > ### **Objectives**
 > 
-> - To configure the environment with the starter files that were given to you by your instructor
+> - To configure the environment with the starter files
 > 
 > - To understand the full flow of the integration prior to building the conditional branches in Lab 300B
 
-## **Lab 300b: Online Shopping Integration Development**
+## **Lab 300B: Online Shopping Integration Development**
 
 > **Documentation**: [Lab 300 Part B](/ics300b.md)
 > 
