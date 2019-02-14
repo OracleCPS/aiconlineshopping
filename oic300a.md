@@ -25,10 +25,10 @@ Before we dive in and create the integration, we want you to get an understandin
 ***AND***
 
   > **For this lab you will need access to the following:**
-    > 1. Access to a provisioned OIC instance
-    > 2. [ONLINE_SHOPPING_APP_01.00.0000.iar](/files/iar_files/ONLINE_SHOPPING_APP_01.00.0000.iar])
-    > 3. [ONLINE_SHOPPING_APP_FULFILLM_01.00.0000.iar](/files/iar_files/ONLINE_SHOPPING_APP_FULFILLM_01.00.0000.iar)
-    > 4. [ONLINESHOPPINGAPPPAYMENTVALIDATI_01.00.0000.iar](/files/iar_files/ONLINESHOPPINGAPPPAYMENTVALIDATI_01.00.0000.iar)
+    > 1. Access to a provisioned OIC instance  
+    > 2. [ONLINE_SHOPPING_APP_01.00.0000.iar](/files/iar_files/ONLINE_SHOPPING_APP_01.00.0000.iar])  
+    > 3. [ONLINE_SHOPPING_APP_FULFILLM_01.00.0000.iar](/files/iar_files/ONLINE_SHOPPING_APP_FULFILLM_01.00.0000.iar)  
+    > 4. [ONLINESHOPPINGAPPPAYMENTVALIDATI_01.00.0000.iar](/files/iar_files/ONLINESHOPPINGAPPPAYMENTVALIDATI_01.00.0000.iar)  
     > 5. Note taking app or text editor  
 
 ---
@@ -292,3 +292,5 @@ https://{**InstanceName**}-{**CloudAccountName**}.integration.ocp.oraclecloud.co
 --- 
 
 # **THIS LAB IS NOW COMPLETED**
+> In the next lab, we are going to complete the sample integration by adding two conditional branches to the flow  
+> [LAB 300B](/ics300b.md)

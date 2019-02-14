@@ -1,6 +1,7 @@
 <img class="float-right" src="images/j2c-logo.png">
 
 # **Lab 300 - Part B: Oracle Integration Cloud (OIC) Development Workshop**
+## Online Shopping Integration Development
 
 ## **Introduction**
 
@@ -13,7 +14,7 @@ The integration flow that we will be working to build is depicted below:
 ## **Objectives**
 - Complete the sample integration by adding two conditional branches to the flow
 
-### **Pre-Requisites**
+## **Pre-Requisites**
 - **REQUIRED:** 
     - This lab assumes that you have already completed [Lab300A](/ics300a.md)
 
@@ -22,7 +23,7 @@ The integration flow that we will be working to build is depicted below:
 - The following lab 
 - An Oracle Cloud account (supplied by your instructor)
 
-# **Online Shopping Integration Development**
+# **Getting Started**
 
 ## **300b.1: Login to your Oracle Cloud account**
 
@@ -316,4 +317,5 @@ AND
 --- 
 
 # **THIS LAB IS NOW COMPLETED**
-> In the next lab, we are going to create a User Interface using Visual Builder Cloud Service (VBCS), then call the REST API with online shopping request.
+> In the next lab, we are going to create a User Interface using Visual Builder Cloud Service (VBCS), then call the REST API with online shopping request.  
+> [LAB 400](/ics400.md)
