@@ -9,7 +9,7 @@ In this Lab, we will be using Oracle Integration Cloud (OIC) to add additional c
 The integration flow that we will be working to build is depicted below:
 
 ![](images/300b/onlineshoppingimage.png)
----
+
 ## **Objectives**
 - Complete the sample integration by adding two conditional branches to the flow
 
