@@ -31,7 +31,7 @@
                 "number": "300-1",
                 "filename": "oic300a.md",
                 "title": "Lab 300A: Online Shopping Integration Pre-Development",
-                "description": "In this lab, we are going to take a sample integration flow and add additional components to finish the flow."
+                "description": "In this lab, we are going to set up the OIC environment with elements that will be used in the next lab (LAB 300B)."
             },
             {
                 "number": "300-2",
