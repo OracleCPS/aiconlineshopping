@@ -17,22 +17,22 @@ Before we dive in and create the integration, we want you to get an understandin
 
 ## **Pre-Requisites**
 
-**REQUIRED:** 
-- This lab assumes that you have already completed [Lab 000](/oic000.md)
+- **REQUIRED:** 
+    - This lab assumes that you have already completed Lab 000 
+    
+- **RECOMMENDED:** 
+    - This lab assumes that you are fairly comfortable with the OIC UI (Lab 100)
 
-***AND***
-
-  > **For this lab you will need access to the following:**
-    > 1. Access to a provisioned OIC instance  
-    > 2. [ONLINE_SHOPPING_APP_01.00.0000.iar](/files/iar_files/ONLINE_SHOPPING_APP_01.00.0000.iar])  
-    > 3. [ONLINE_SHOPPING_APP_FULFILLM_01.00.0000.iar](/files/iar_files/ONLINE_SHOPPING_APP_FULFILLM_01.00.0000.iar)  
-    > 4. [ONLINESHOPPINGAPPPAYMENTVALIDATI_01.00.0000.iar](/files/iar_files/ONLINESHOPPINGAPPPAYMENTVALIDATI_01.00.0000.iar)  
-    > 5. Note taking app or text editor  
-
+    > **For this lab you will need access to the following:**
+        > 1. Access to a provisioned OIC instance  
+        > 2. ONLINE_SHOPPING_APP_01.00.0000.iar
+        > 3. ONLINE_SHOPPING_APP_FULFILLM_01.00.0000.iar
+        > 4. ONLINESHOPPINGAPPPAYMENTVALIDATI_01.00.0000.iar
+        > 5. Note taking app or text editor    
 
 # **Getting Started**
 
-## **300a.1: Gain Access to the Oracle Integration Cloud Home Page and Nagivate to the Integration Designer Page**
+## **300a.1: Log In to OIC and Nagivate to the Integration Designer Page**
 
 **300a.1.1:** Navigate to the Home Page by using the OIC URL provided to you by your instructor. The URL should have the following pattern: 
 https://{**InstanceName**}-{**CloudAccountName**}.integration.ocp.oraclecloud.com/ic/home/
@@ -291,5 +291,4 @@ https://{**InstanceName**}-{**CloudAccountName**}.integration.ocp.oraclecloud.co
 --- 
 
 # **THIS LAB IS NOW COMPLETED**
-> In the next lab, we are going to complete the sample integration by adding two conditional branches to the flow  
-> [LAB 300B](/oic300b.md)
+> In the next lab, we are going to complete the sample integration by adding two conditional branches to the flow

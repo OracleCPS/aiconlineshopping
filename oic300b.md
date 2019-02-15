@@ -16,8 +16,8 @@ The integration flow that we will be working to build is depicted below:
 
 ## **Pre-Requisites**
 - **REQUIRED:** 
-    - This lab assumes that you have already completed [Lab300A](/oic300a.md)
-
+    - This lab assumes that you have already completed Lab 300A
+    
 ## **Required Artifacts**
 
 - The following lab 
@@ -25,7 +25,7 @@ The integration flow that we will be working to build is depicted below:
 
 # **Getting Started**
 
-## **300b.1: Login to your Oracle Cloud account**
+## **300b.1: Log In to OIC**
 
 **300b.1.1**: Navigate to the Home Page by using the OIC URL provided to you by your instructor. The URL should have the following pattern: 
 https://{**InstanceName**}-{**CloudAccountName**}.integration.ocp.oraclecloud.com/ic/home/
@@ -38,7 +38,7 @@ https://{**InstanceName**}-{**CloudAccountName**}.integration.ocp.oraclecloud.co
 
 ![](images/oic-1.png)
 
-## **300b.2: Clone and Develop your Integration**
+## **300b.2: Clone and Develop Your Integration**
 
 **300b.2.1:** Using the existing integration named **Online Shopping App Sample**, create a clone integration 
 > Search with above integration name as shown below 
@@ -258,7 +258,7 @@ AND
 ![](images/300b/img145_2.png)
 ![](images/300b/img145_3.png)
 
-## **300b.3: Testing your Integrations**
+## **300b.3: Testing Your Integrations**
 
 **300b.3.1a:** Click on the `Collection` tab as shown below and provide a name for your collection as shown below  
 ![](images/300b/img146.png)
@@ -317,5 +317,4 @@ AND
 --- 
 
 # **THIS LAB IS NOW COMPLETED**
-> In the next lab, we are going to create a User Interface using Visual Builder Cloud Service (VBCS), then call the REST API with online shopping request.  
-> [LAB 400](/oic400.md)
+> In the next lab, we are going to create a User Interface using Visual Builder Cloud Service (VBCS), then call the REST API with online shopping request.
