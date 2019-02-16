@@ -47,7 +47,7 @@
             },
             {
                 "number": "500",
-                "filename": "ics500.md",
+                "filename": "oic500.md",
                 "title": "Lab 500: Create Approval Workflow to Process Orders",
                 "description": "In this lab, we are going to use OIC Process Automation capability to implement a Business Process that will be triggered for suspended orders from online shopping API call."
             },
